@@ -19,7 +19,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<"hello world";
+    cout<<"6 April 2018";
     return 0;
 }
 
